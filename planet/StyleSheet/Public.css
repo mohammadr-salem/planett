@@ -1,0 +1,31 @@
+body {
+
+}
+
+*,
+*::before,
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+main,
+header,
+nav,
+section,
+aside,
+footer,
+figure,a,ul
+ {
+    display: flex;
+   
+}
